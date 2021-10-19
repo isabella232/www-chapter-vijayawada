@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Surendra Babu Sajja](mailto:surendra.sajja@owasp.org)
+* [Jaswanth Raghu Kondisetty](mailto:jaswanth.kondisetty@owasp.org)
