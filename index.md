@@ -5,7 +5,7 @@ title: OWASP Vijayawada
 tags: owasp-vijayawada
 region: Asia
 country: India
-meetup-group: owasp-vijayawada
+meetup-group: owasp-vijayawada-chapter
 
 ---
 
